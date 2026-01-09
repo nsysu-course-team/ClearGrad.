@@ -1,0 +1,182 @@
+[
+    {
+        "Dept": "中學學程",
+        "Course ID": "STP101",
+        "Course Name": "教育心理學",
+        "Credits": "2",
+        "Teacher": "宋呈澔,張宇慧,張至慶,林靜慧,陳菁徽,馮雅群",
+        "Time": "一3,4",
+        "Room": "社SS 2001"
+    },
+    {
+        "Dept": "中學學程",
+        "Course ID": "STP104",
+        "Course Name": "教學原理",
+        "Credits": "2",
+        "Teacher": "陳威霖",
+        "Time": "四8,9",
+        "Room": "社SS 2006"
+    },
+    {
+        "Dept": "中學學程",
+        "Course ID": "STP105",
+        "Course Name": "輔導原理與實務",
+        "Credits": "2",
+        "Teacher": "鄭雯",
+        "Time": "一8,9",
+        "Room": "社SS 2001"
+    },
+    {
+        "Dept": "中學學程",
+        "Course ID": "STP110",
+        "Course Name": "教育概論",
+        "Credits": "2",
+        "Teacher": "張至慶",
+        "Time": "四B,5",
+        "Room": "社SS 2005"
+    },
+    {
+        "Dept": "中學學程",
+        "Course ID": "STP118",
+        "Course Name": "課程發展與設計",
+        "Credits": "2",
+        "Teacher": "周珮儀",
+        "Time": "二6,7",
+        "Room": "社SS 2006"
+    },
+    {
+        "Dept": "中學學程",
+        "Course ID": "STP121",
+        "Course Name": "性別教育",
+        "Credits": "2",
+        "Teacher": "宋呈澔等",
+        "Time": "三3,4",
+        "Room": "社SS 2001"
+    },
+    {
+        "Dept": "中學學程",
+        "Course ID": "STP123",
+        "Course Name": "教學媒體與運用",
+        "Credits": "2",
+        "Teacher": "陳菁徽",
+        "Time": "二3,4",
+        "Room": "社SS 2002-2"
+    },
+    {
+        "Dept": "中學學程",
+        "Course ID": "STP133",
+        "Course Name": "比較教育",
+        "Credits": "2",
+        "Teacher": "林靜慧",
+        "Time": "一B,5",
+        "Room": "社SS 2002-1"
+    },
+    {
+        "Dept": "中學學程",
+        "Course ID": "STP166",
+        "Course Name": "生命教育",
+        "Credits": "2",
+        "Teacher": "楊淑晴",
+        "Time": "二6,7",
+        "Room": "社SS 2002-1"
+    },
+    {
+        "Dept": "中學學程",
+        "Course ID": "STP170",
+        "Course Name": "心理學",
+        "Credits": "3",
+        "Teacher": "鄭雯等",
+        "Time": "一5,6,7",
+        "Room": "社SS 2001"
+    },
+    {
+        "Dept": "中學學程",
+        "Course ID": "STP173",
+        "Course Name": "教育行政",
+        "Credits": "2",
+        "Teacher": "王進焱",
+        "Time": "五3,4",
+        "Room": "社SS 2005"
+    },
+    {
+        "Dept": "中學學程",
+        "Course ID": "STP182",
+        "Course Name": "探究與實作",
+        "Credits": "2",
+        "Teacher": "張宇慧",
+        "Time": "二8,9",
+        "Room": "社SS 3006"
+    },
+    {
+        "Dept": "中學學程",
+        "Course ID": "STP262",
+        "Course Name": "物理專長教材教法",
+        "Credits": "2",
+        "Teacher": "郭建成",
+        "Time": "二6,7",
+        "Room": "社SS 2002-2"
+    },
+    {
+        "Dept": "中學學程",
+        "Course ID": "STP264",
+        "Course Name": "生物專長教材教法",
+        "Credits": "2",
+        "Teacher": "王麗雅",
+        "Time": "一8,9",
+        "Room": "社SS 2002-2"
+    },
+    {
+        "Dept": "中學學程",
+        "Course ID": "STP266",
+        "Course Name": "國語文專長教材教法",
+        "Credits": "2",
+        "Teacher": "陳威霖",
+        "Time": "五3,4",
+        "Room": "社SS 2006"
+    },
+    {
+        "Dept": "中學學程",
+        "Course ID": "STP268",
+        "Course Name": "英語文專長教材教法",
+        "Credits": "2",
+        "Teacher": "莊雪華",
+        "Time": "二3,4",
+        "Room": "社SS 2005"
+    },
+    {
+        "Dept": "中學學程",
+        "Course ID": "STP270",
+        "Course Name": "數學專長教材教法",
+        "Credits": "2",
+        "Teacher": "黃家杰",
+        "Time": "三A,1",
+        "Room": "社SS 2002-2"
+    },
+    {
+        "Dept": "中學學程",
+        "Course ID": "STP272",
+        "Course Name": "公民與社會專長教材教法",
+        "Credits": "2",
+        "Teacher": "張至慶",
+        "Time": "四3,4",
+        "Room": "社SS 2002-2"
+    },
+    {
+        "Dept": "中學學程",
+        "Course ID": "STP274",
+        "Course Name": "音樂藝術專長教材教法",
+        "Credits": "2",
+        "Teacher": "洪佳慧",
+        "Time": "三3,4",
+        "Room": "社SS 2006"
+    },
+    {
+        "Dept": "中學學程",
+        "Course ID": "STP276",
+        "Course Name": "表演藝術專長教材教法",
+        "Credits": "2",
+        "Teacher": "鍾佳玲",
+        "Time": "三A,1",
+        "Room": "社SS 2004-3"
+    }
+]
