@@ -1,0 +1,13 @@
+/* TEAM */
+  Developer: CHUN CHUAN YEH 葉峻銓
+  Site: cleargrad.tw
+  Location: Taiwan
+
+  Icon/Coloring: Chun-Po Chiu 邱俊博
+  Location: Taiwan
+
+/* SITE */
+  Last update: 2026/02/24
+  Language: English, Traditional Chinese
+  Doctype: HTML5
+  IDE: VSCode, Cursor
